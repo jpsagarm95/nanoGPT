@@ -1,0 +1,10 @@
+Step 0: train_loss 4.4753, val loss 4.4709
+Step 500: train_loss 1.7545, val loss 1.8982
+Step 1000: train_loss 1.4441, val loss 1.6592
+Step 1500: train_loss 1.3164, val loss 1.5615
+Step 2000: train_loss 1.2308, val loss 1.5298
+Step 2500: train_loss 1.1701, val loss 1.5305
+Step 3000: train_loss 1.1107, val loss 1.5229
+Step 3500: train_loss 1.0550, val loss 1.5329
+Step 4000: train_loss 1.0049, val loss 1.5600
+Step 4500: train_loss 0.9464, val loss 1.5706
